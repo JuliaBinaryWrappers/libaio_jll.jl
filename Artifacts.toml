@@ -1,0 +1,103 @@
+[[libaio]]
+arch = "aarch64"
+git-tree-sha1 = "9fa6fe1997ba6970e8d4f4291036d6f81147c5e8"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "5b47ad17bda12b0be12f3d41eb9d837faf4b59f0f625141a43608279663ac58c"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.aarch64-linux-gnu.tar.gz"
+[[libaio]]
+arch = "aarch64"
+git-tree-sha1 = "9857ab9a188d1a3a4064b286c7736ce3e5cd3d0c"
+libc = "musl"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "2efedcd8e10ea27ae7e316ba9635fd339afc9dab75924621a849a03bccdbcbc4"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.aarch64-linux-musl.tar.gz"
+[[libaio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4b176ddf7a81a1ba221227dec7f912d7c19edb12"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "c23e547318926e6c8962ec12918166dbd1d959a884c1abbaedd34d11d6abe65a"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.armv6l-linux-gnueabihf.tar.gz"
+[[libaio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5412cfa2a9589d3250bb1a5dd547e3a8bd7980cb"
+libc = "musl"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "85101d61ffd2129f2d9998bb10c2c47c8241b9d324f09c207d134cc1a8c46416"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.armv6l-linux-musleabihf.tar.gz"
+[[libaio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5e894a763a66cbcf0f7e916b6787d90ccb0f7644"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "f5eaceb6b2dd6460a33f2df82a7f7b054efbf0f2152dfae51413997e27191232"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.armv7l-linux-gnueabihf.tar.gz"
+[[libaio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "587c734e96ad8f31d02b55928435b514599bb092"
+libc = "musl"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "d65c744fdbce06921afa77aead3948c0acccca6e0cc25c4ed12142916fecf0b9"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.armv7l-linux-musleabihf.tar.gz"
+[[libaio]]
+arch = "i686"
+git-tree-sha1 = "2fb5a1c1482cfb155581620a656235fc6fbaa45c"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "d3d6b9ec11c4f47798ae957cd1b64d6825e99bf9ffa5609491e233a3f2e883cb"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.i686-linux-gnu.tar.gz"
+[[libaio]]
+arch = "i686"
+git-tree-sha1 = "20c8aec168e642672949a10669e8bbb01c314901"
+libc = "musl"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "c71205432f48966ac698960741bfeb543b019d7e27792f327f567215f2b0d315"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.i686-linux-musl.tar.gz"
+[[libaio]]
+arch = "powerpc64le"
+git-tree-sha1 = "3c297b5f2aeceb269b60be4d686f64885f6c4b6f"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "e8374f97e54fd1c0ccb93be8af38d7a7d2ea88fb1f14c4ba7888211c2a0f9fb0"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.powerpc64le-linux-gnu.tar.gz"
+[[libaio]]
+arch = "x86_64"
+git-tree-sha1 = "aeaff52daf3d8c9f0a27b386fe73f8cc5f84e9d9"
+libc = "glibc"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "49beb15ba3974180f054abe2ace7f01f9aa4f16f80727c1e9747e28ac6a6b761"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.x86_64-linux-gnu.tar.gz"
+[[libaio]]
+arch = "x86_64"
+git-tree-sha1 = "c338212f3bdff76b29f8403afbfdfba5ea83130b"
+libc = "musl"
+os = "linux"
+
+    [[libaio.download]]
+    sha256 = "b13b253d495a8dc1c7fd7a77be036009c4fa9219e18bdc3a01cfe18a1bd49eb1"
+    url = "https://github.com/JuliaBinaryWrappers/libaio_jll.jl/releases/download/libaio-v0.3.112+0/libaio.v0.3.112.x86_64-linux-musl.tar.gz"
